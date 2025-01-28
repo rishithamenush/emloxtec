@@ -11,9 +11,9 @@ const About = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-               <div className="about-img">
-                 <Image src={aboutImg} alt="Image" width={375} height={440} />
-               </div>
+              <div className="about-img">
+                <Image src={aboutImg} alt="Image" width={375} height={440} />
+              </div>
             </div>
 
             <div className="col-lg-6">
@@ -23,7 +23,15 @@ const About = () => {
                   A Multi-Domain Consultancy Firm Providing Innovative Solutions
                 </h2>
                 <p>
-                  Azure Rift is a dynamic consultancy firm offering cutting-edge solutions across various domains. We specialize in software development, AI & ML solutions, digital marketing, animation, VFX, robotics, drones, cybersecurity, and blockchain. Founded in 2018 as a startup under the SACC India Startup Accelerator, we are driven by a passion for innovation and excellence. Our founders, Nessan Irani and Neelanjan Chakraborty, have built a team that is committed to delivering results that exceed expectations.
+                  EmloX Tec Solutions is a dynamic consultancy firm offering
+                  cutting-edge solutions across various domains. We specialize
+                  in software development, AI & ML solutions, digital marketing,
+                  animation, VFX, robotics, drones, cybersecurity, and
+                  blockchain. Founded in 2018 as a startup under the Asian
+                  Startup Accelerator, we are driven by a passion for innovation
+                  and excellence. Our founder Mr.Roman Illenberger, have built a
+                  team that is committed to delivering results that exceed
+                  expectations.
                 </p>
 
                 <div className="row">
